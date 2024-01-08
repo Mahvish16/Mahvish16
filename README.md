@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/mahvish_ruhi" target="blank"><img src="https://img.shields.io/twitter/follow/mahvish_ruhi?logo=twitter&style=for-the-badge" alt="https://x.com/mahvishruhi?t=bx9gu2fy7cc-svhwit4pnq&s=09" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahvish16](https://github.com/Mahvish16)
 
