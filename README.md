@@ -1,4 +1,4 @@
-![Mahvish Banner](https://raw.githubusercontent.com/Mahvish16/Mahvish16/main/assets/banner.png)
+![Banner](https://user-images.githubusercontent.com/12284527/235882078-ea297c5b-5340-46b1-927f-fb92b41a9993.png)
 
 
 <h1 align="center">Hi 👋, I'm Mahvish Ruhi</h1>
