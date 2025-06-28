@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/12284527/235882078-ea297c5b-5340-46b1-927f-fb92b41a9993.png)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahvish+Ruhi;Full-Stack+Developer+(Python%2FDjango%2C+React);I+%E2%9D%A4+clean+and+functional+code)
 
 
 <h1 align="center">Hi 👋, I'm Mahvish Ruhi</h1>
