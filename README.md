@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mahvish+Ruhi;Python+%7C+Django+%7C+React+Developer;Passionate+about+clean+code+%26+tech&center=true&width=500&height=50)
 
 <h1 align="center">Hi 👋, I'm Mahvish Ruhi</h1>
 <h3 align="center">A passionate Full-Stack Python Developer from India</h3>
