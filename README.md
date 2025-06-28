@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahvish+Ruhi;Full-Stack+Developer+(Python%2FDjango%2C+React);I+%E2%9D%A4+clean+and+functional+code)
+![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
 
 <h1 align="center">Hi 👋, I'm Mahvish Ruhi</h1>
@@ -8,11 +8,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahvish16&label=Profile%20views&color=0e75b6&style=flat" alt="mahvish16" /> </p>
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahvish16&theme=algolia" alt="GitHub Trophies" />
-  </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=mahvish16&theme=algolia&no-bg=true&margin-w=15&column=3&title=Repositories,Commits,Experience" alt="GitHub Trophies" />
+  </a>
 </p>
+
 
 <p align="left">
   <a href="https://twitter.com/mahvish_ruhi" target="blank">
