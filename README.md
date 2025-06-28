@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mahvish+Ruhi;Python+%7C+Django+%7C+React+Developer;Passionate+about+clean+code+%26+tech&center=true&width=500&height=50)
+![Banner](https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/banner.png?raw=true)
+
 
 <h1 align="center">Hi 👋, I'm Mahvish Ruhi</h1>
 <h3 align="center">A passionate Full-Stack Python Developer from India</h3>
