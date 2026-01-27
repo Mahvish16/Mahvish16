@@ -77,14 +77,27 @@ I help startups and businesses with:
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahvish16&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahvish16&show_icons=true&theme=algolia&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahvish16&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahvish16&theme=algolia&hide_border=true" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahvish16" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahvish16&layout=compact&theme=algolia&hide_border=true" />
 </p>
+
+---
+
+<h3 align="left">Contribution Graph:</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahvish16&theme=react-dark&hide_border=true" />
+
+---
+
+<h3 align="left">GitHub Metrics:</h3>
+
+<img src="https://metrics.lecoq.io/mahvish16?template=classic&languages=1&activity=1&lines=1&followup=1&theme=dark" />
+
