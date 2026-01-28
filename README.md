@@ -89,15 +89,3 @@ I help startups and businesses with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahvish16&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
----
-
-<h3 align="left">Contribution Graph:</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahvish16&theme=react-dark&hide_border=true" />
-
----
-
-<h3 align="left">GitHub Metrics:</h3>
-
-<img src="https://metrics.lecoq.io/mahvish16?template=classic&languages=1&activity=1&lines=1&followup=1&theme=dark" />
-
