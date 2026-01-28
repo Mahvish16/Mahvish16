@@ -13,11 +13,6 @@ src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-
        alt="mahvish16" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahvish16&theme=algolia&no-bg=true&margin-w=15&column=3&title=Repositories,Commits,Experience"
-       alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 💼 What I Do
